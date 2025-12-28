@@ -1,7 +1,6 @@
 # Amar Kumar Prasad
 
 📧 **Email:** amarprasad63@gmail.com  
-📞 **Phone:** +91 8410197503  
 📍 **Location:** Gurgaon, India  
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/amarprasad63  
