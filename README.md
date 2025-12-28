@@ -143,9 +143,3 @@ Led the development and deployment of **eight AI-powered models** using OpenAI a
 
 ---
 
-## Education
-
-**Bachelor of Technology (BTech). Computer Science Engineering**  
-Faculty of Engineering and Technology, Gurukul Kangri, Haridwar  
-**Graduated:** Jun 2015  
-**Score:** 80.3%
